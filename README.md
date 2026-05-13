@@ -1,4 +1,4 @@
-# Pace Lab: Personal Marathon Training Intelligence App
+# Pace Lab: Personal Marathon Training App
 
 ## What Is This?
 
