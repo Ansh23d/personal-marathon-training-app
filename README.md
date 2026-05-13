@@ -1,6 +1,16 @@
-# Marathon Training Intelligence
+# Pace Lab — Personal Marathon Training Intelligence App
 
-Personal running fitness app — Strava integration, custom analytics, adaptive training plans.
+## What Is This?
+
+Pace Lab is a personal fitness dashboard I built that connects to my Strava account and gives me deeper training insights than what Strava's free plan offers. Instead of paying for Strava's premium subscription, I built my own tool that calculates the same advanced metrics for free.
+
+It lives on my laptop and shows me everything I need to understand my running fitness: how fit I am, how tired I am, how recovered I am, race time predictions, and a structured training plan to reach my goal race.
+
+## Why I Built It
+
+I am training for a marathon and needed a structured, guided path to improve my time and actually cross the finish line. The two tools everyone recommends for serious marathon training are **Strava Pro** and **Runna** — a dedicated marathon coaching app. Together they would have cost me **$32 per month**.
+
+Instead, I vibe coded my own solution from scratch. Pace Lab replicates everything those two paid apps would have given me — advanced fitness tracking, race predictions, personalised training plans, and guided daily workouts — and it costs nothing because my code calculates everything by itself using my own Strava data.
 
 ## Setup
 
